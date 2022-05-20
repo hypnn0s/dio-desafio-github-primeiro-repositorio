@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositório
-Desafio de projeto
+##Desafio de Projeto Git/GitHub
+Repositório para o desafio de projeto do bootcamp Decola Tech 3a edição.
